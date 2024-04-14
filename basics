@@ -1,0 +1,5 @@
+firstname = "Pravallika"
+lastname ="Katta"
+fullname= firstname +" "+ lastname
+#print("HEllO "+fullname)
+#print(type(firstname))
